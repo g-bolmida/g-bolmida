@@ -1,0 +1,4 @@
+- 🎓 Finishing up my Bachelors in Cybersecurity @ University of Cincinnati 
+- 🛞 Kubernetes Fanatic, am a Certified Kubernetes Administrator
+- 🧑‍💻 DevOps Engineer, I enjoy empowering and improving the development experience for all
+- 📨 How to contact me - gbolmida@georgebolmida.com
