@@ -1,4 +1,4 @@
-- 🎓 Finishing up my Bachelors in Cybersecurity @ University of Cincinnati 
+- 🎓 Bachelors and Associates degrees in Cybersecurity 
 - 🛞 Kubernetes Fanatic, I am a Certified Kubernetes Administrator
 - ☁️  Cloud Friendly, I am a Certified Solutions Architect - Associate
 - 🧑‍💻 DevOps Engineer, I enjoy empowering and improving the development experience for all
