@@ -1,6 +1,5 @@
+- 🚀 Golang Obsessed
+- ☸️ Kubernetes Fanatic, Certified Kubernetes Administrator
+- ☁️ Certified Solutions Architect - Associate
 - 🎓 Bachelors and Associates degrees in Cybersecurity 
-- 🛞 Kubernetes Fanatic, I am a Certified Kubernetes Administrator
-- ☁️  Cloud Friendly, I am a Certified Solutions Architect - Associate
-- 🧑‍💻 DevOps Engineer, I enjoy empowering and improving the development experience for all
-- 📨 How to contact me - gbolmida@georgebolmida.com
-- 🌐 Visit my personal website - https://georgebolmida.com
+- 🌐 Personal site - https://georgebolmida.com
